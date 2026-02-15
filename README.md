@@ -44,7 +44,7 @@ The Excel model reproduces the academic valuation and demonstrates the ability t
 
 ## Files Included
 
-- `Infosys_FCFE_Model.xlsx` — Complete valuation model  
+- `Infosys_FCFE_Model(1).xlsx` — Complete valuation model  
 - `Infosys_Valuation_Report.pdf` — Academic analysis and explanation  
 
 ---
